@@ -1,10 +1,10 @@
 ---
 title: "Sorcha: A Solar System Survey Simulator for the Legacy Survey of Space and Time"
-# collection: publications
-# category: conferences
+collection: publications
+category: manuscripts
 permalink: /publication/sorcha
 excerpt: 'Overview paper for the survey simulator Sorcha. I contributed to the development of the software, particularly in testing and fixing the linking algorithm miniDifi, developing example notebooks for colour determination, and improving logging functionality and documentation '
-# date: 'in prep'
+date: 
 venue: 'AJ'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Merritt, S., et al., (in prep), &quot;Sorcha: A Solar System Survey Simulator for the Legacy Survey of Space and Time&quot;, <i>AJ</i>'
