@@ -1,7 +1,7 @@
 ---
 title: "Predictions of the LSST Solar System Yield: Discovery Rates and Characterizations of Centaurs"
-# collection: publications
-# category: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/lsstcentaurs
 excerpt: 'This paper builds a dynamical+colour model for the Centaurs and uses the survey simulator Sorcha to place the very first limits of their discoverability and characterisation potential within the LSST'
 # date: 'Submitted'
