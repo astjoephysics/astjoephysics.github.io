@@ -7,12 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Failte!
+Fáilte!
 =====
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a third (and final, gulp!) year PhD student at the Astrophysics Research Centre, Queen's University Belfast, where I'm supervised by Dr. Meg Schwamb. I'm interested in small solar system bodies and what they can tell us about how our solar system was formed and evolved into its present day setup. In particular, my research has focused on the Centaur population through both individual observational campaigns as well as population-wide simulation modelling - all in an effort better understand these 'missing links' in small body evolution.
 
-A data-driven personal website
+I obtained my [undergraduate integrated Masters (MSci)](https://en.wikipedia.org/wiki/Master%27s_degree_in_the_United_Kingdom#Integrated_Master's_degrees) from Queen's Univeristy Belfast, graduating top of my year and winning the Greer Prize. My dissertation project was based on analysing dust production rates of Jupiter-family comets in Zwicky Transient Facility data as they approached and moved away from perihelion.
+
+Outside of research I'm a strong advocate for DEI advancement ([see the DEI committee I helped co-found and currently chair!](https://qub-arc-equitea.github.io/)), outreach efforts ([come to our Astronomy Day](https://nisciencefestival.com/events/qub-astronomy-day-3) and then [come watch us give drunk talks!](https://nisciencefestival.com/events/astronomy-on-tap-2)), and a 2024 one-book-a-week-on-average reader ([don't judge!](https://www.goodreads.com/user/show/155374701-joseph-murtagh)).
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -49,4 +55,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
