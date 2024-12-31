@@ -3,7 +3,7 @@ title: "Analyzing the Onset of Cometary Activity by the Jupiter-family Comet 202
 collection: publications
 category: conferences
 permalink: /publication/dobby1
-excerpt: 'Paper that looked at the newly active Jupiter-family comet 2023 RN3 through a variety of archival wide field survey data and newly acquired observations. I assisted in providing ZTF data for the analysis of this comet, as well as providing code to gain initial Af$\rho$ measurements'
+excerpt: 'Paper that looked at the newly active Jupiter-family comet 2023 RN3 through a variety of archival wide field survey data and newly acquired observations. I assisted in providing ZTF data for the analysis of this comet, as well as providing code to gain initial Af⍴ measurements'
 # date: 2024
 # venue: 'AJ'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2024AJ....168..286D/abstract'
