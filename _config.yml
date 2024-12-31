@@ -80,7 +80,7 @@ publication_category:
   manuscripts:
     title: 'First Author Publications'    
   conferences:
-    title: 'Independent Significant Contributions'
+    title: 'Significant Contributions'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

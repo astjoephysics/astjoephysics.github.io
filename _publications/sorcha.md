@@ -1,7 +1,7 @@
 ---
 title: "Sorcha: A Solar System Survey Simulator for the Legacy Survey of Space and Time"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/sorcha
 excerpt: 'Overview paper for the survey simulator Sorcha. I contributed to the development of the software, particularly in testing and fixing the linking algorithm miniDifi, developing example notebooks for colour determination, and improving logging functionality and documentation '
 # date: 
