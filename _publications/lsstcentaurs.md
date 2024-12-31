@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/lsstcentaurs
 excerpt: 'This paper builds a dynamical+colour model for the Centaurs and uses the survey simulator Sorcha to place the very first limits of their discoverability and characterisation potential within the LSST'
-date: 
-venue: 'AJ'
+# date: 
+# venue: 'AJ'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Murtagh, J., et al., Submitted, &quot;Predictions of the LSST Solar System Yield: Discovery Rates and Characterizations of Centaurs&quot;, <i>AJ</i>'
