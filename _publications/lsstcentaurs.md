@@ -11,7 +11,7 @@ excerpt: 'This paper builds a dynamical+colour model for the Centaurs and uses t
 citation: 'Murtagh, J., et al., Submitted, &quot;Predictions of the LSST Solar System Yield: Discovery Rates and Characterizations of Centaurs&quot;, <i>AJ</i>'
 ---
 
-# Plain Language Summary:
+## Plain Language Summary:
 
 The Centaurs (not [those kinds!](https://cdn.thecollector.com/wp-content/uploads/2022/05/master-ballet-night-costume-chiron-wedding.jpg)) are particularly interesting as far as small bodies go because they are thought to be a 'missing link' in solar system small body evolution - dynamical simulations have shown them to be a source reservoir for short period comets like the Jupiter-family comets, scattering inwards from the Scattering Disk due to interactions with the giant planets. Observational evidence backs this up, with Centaurs having a similar bimodal surface colour distribution to the smaller trans-Neptunian object population (although this bimodality is still contested, with a lack of observations driving the statistical signifigance). As they reside predominantly in the giant planet region, they're closer and so on average brighter, making them easier to observe than the outer trans-Neptunian populations - this makes them good targets for observations furthering small body evolution theories. What's more intriguing is their cometary activity they display; comae and plumes reminiscent of short period comets, but without any link to heliocentric distance (although more active Centaurs have lower perihelia values) - so their activity driver must not be the same volatile ice sublimation that drives short period comets, with some theorising it may be onset from sudden 'jumps' in their semi-major axes. Very strange! 
 
